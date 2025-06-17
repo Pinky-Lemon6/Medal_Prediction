@@ -1,0 +1,189 @@
+{
+  "Basketball": [
+    "Basketball",
+    "3x3 Basketball",
+    "3x3 Basketball, Basketball"
+  ],
+  "Judo": [
+    "Judo"
+  ],
+  "Football": [
+    "Football"
+  ],
+  "Tug-Of-War": [
+    "Tug-Of-War"
+  ],
+  "Athletics": [
+    "Athletics_sprint",
+    "Athletics_others",
+    "Athletics_jump",
+    "Athletics_longdistance",
+    "Athletics_throw",
+    "Athletics_morelongdistances"
+  ],
+  "Swimming": [
+    "Swimming",
+    "Marathon Swimming",
+    "Marathon Swimming, Swimming"
+  ],
+  "Badminton": [
+    "Badminton"
+  ],
+  "Sailing": [
+    "Sailing"
+  ],
+  "Gymnastics": [
+    "Gymnastics",
+    "Rhythmic Gymnastics",
+    "Trampolining",
+    "Artistic Gymnastics",
+    "Trampoline Gymnastics"
+  ],
+  "Art Competitions": [
+    "Art Competitions"
+  ],
+  "Handball": [
+    "Handball"
+  ],
+  "Weightlifting": [
+    "Weightlifting"
+  ],
+  "Wrestling": [
+    "Wrestling"
+  ],
+  "Water Polo": [
+    "Water Polo"
+  ],
+  "Hockey": [
+    "Hockey"
+  ],
+  "Rowing": [
+    "Rowing"
+  ],
+  "Fencing": [
+    "Fencing"
+  ],
+  "Equestrianism": [
+    "Equestrianism",
+    "Equestrian"
+  ],
+  "Shooting": [
+    "Shooting"
+  ],
+  "Boxing": [
+    "Boxing"
+  ],
+  "Taekwondo": [
+    "Taekwondo"
+  ],
+  "Cycling": [
+    "Cycling",
+    "Cycling Road",
+    "Cycling BMX Racing",
+    "Cycling Track",
+    "Cycling Mountain Bike",
+    "Cycling BMX Freestyle",
+    "Cycling Road, Cycling Track",
+    "Cycling Road, Cycling Mountain Bike"
+  ],
+  "Diving": [
+    "Diving"
+  ],
+  "Canoeing": [
+    "Canoeing",
+    "Canoe Slalom",
+    "Canoe Sprint"
+  ],
+  "Tennis": [
+    "Tennis"
+  ],
+  "Modern Pentathlon": [
+    "Modern Pentathlon"
+  ],
+  "Golf": [
+    "Golf"
+  ],
+  "Softball": [
+    "Softball"
+  ],
+  "Archery": [
+    "Archery"
+  ],
+  "Volleyball": [
+    "Volleyball",
+    "Beach Volleyball"
+  ],
+  "Synchronized Swimming": [
+    "Synchronized Swimming",
+    "Artistic Swimming"
+  ],
+  "Table Tennis": [
+    "Table Tennis"
+  ],
+  "Baseball": [
+    "Baseball",
+    "Baseball/Softball"
+  ],
+  "Rugby": [
+    "Rugby Sevens",
+    "Rugby"
+  ],
+  "Triathlon": [
+    "Triathlon",
+    "Cycling Road, Triathlon"
+  ],
+  "Lacrosse": [
+    "Lacrosse"
+  ],
+  "Polo": [
+    "Polo"
+  ],
+  "Cricket": [
+    "Cricket"
+  ],
+  "Ice Hockey": [
+    "Ice Hockey"
+  ],
+  "Racquets": [
+    "Racquets"
+  ],
+  "Motorboating": [
+    "Motorboating"
+  ],
+  "Croquet": [
+    "Croquet"
+  ],
+  "Figure Skating": [
+    "Figure Skating"
+  ],
+  "Jeu De Paume": [
+    "Jeu De Paume"
+  ],
+  "Roque": [
+    "Roque"
+  ],
+  "Basque Pelota": [
+    "Basque Pelota"
+  ],
+  "Alpinism": [
+    "Alpinism"
+  ],
+  "Aeronautics": [
+    "Aeronautics"
+  ],
+  "Karate": [
+    "Karate"
+  ],
+  "Surfing": [
+    "Surfing"
+  ],
+  "Skateboarding": [
+    "Skateboarding"
+  ],
+  "Sport Climbing": [
+    "Sport Climbing"
+  ],
+  "Breaking": [
+    "Breaking"
+]
+}
