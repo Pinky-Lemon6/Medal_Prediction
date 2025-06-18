@@ -1,3 +1,0 @@
---- Analysis of Potential First-Time Medal Winners in 2028 ---
-Our model predicts that 13 countries have a high chance (lower bound of 95% PI > 0) to win their first medal.
-Candidates: USA, CHN, GBR, GBR, FRA, JPN, ITA, GER, AUS, NED, KOR, NZL, CAN
